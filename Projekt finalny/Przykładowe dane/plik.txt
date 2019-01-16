@@ -1,0 +1,15 @@
+Berlin Katowice 3
+Katowice Warszawa 5
+Otwock Opole 5
+Katowice Opole 3
+Lodz Warszawa 3
+Lodz Pila 5
+Lodz Poznan 3
+Poznan Warszawa 1
+Poznan Gdansk 3
+Berlin Moskwa 10000
+Orzesze Laziska 2
+Laziska Mikolow 5
+Mikolow Katowice 7
+Katowice Sosnowiec 20
+Sobienie-Kielczewskie-Pierwsze Przedmiescie-Szczebrzeszynskie 50

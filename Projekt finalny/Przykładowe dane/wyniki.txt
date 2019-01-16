@@ -1,0 +1,42 @@
+
+Trasa: Berlin --> Warszawa (8 km): 
+ Berlin --> Katowice           3
+ Katowice --> Warszawa         5
+
+Trasa: Katowice --> Warszawa (5 km): 
+ Katowice --> Warszawa           5
+
+Trasa: Katowice --> Opole (3 km): 
+ Katowice --> Opole           3
+
+Trasa: Lodz --> Warszawa (3 km): 
+ Lodz --> Warszawa           3
+
+Trasa: Lodz --> Pila (5 km): 
+ Lodz --> Pila           5
+
+Trasa: Lodz --> Poznan (3 km): 
+ Lodz --> Poznan           3
+
+Trasa: Poznan --> Gdansk (3 km): 
+ Poznan --> Gdansk           3
+
+Trasa: Berlin --> Warszawa (8 km): 
+ Berlin --> Katowice           3
+ Katowice --> Warszawa         5
+
+Trasa: Lodz -> xdd nie istnieje! (brak miasta w pliku z drogami)
+
+Trasa: Berlin -> Otwock nie istnieje! (brak polaczenia miedzy miastami)
+
+Trasa: Berlin --> Moskwa (10000 km): 
+ Berlin --> Moskwa           10000
+
+Trasa: Orzesze --> Sosnowiec (34 km): 
+ Orzesze --> Laziska              2
+ Laziska --> Mikolow              5
+ Mikolow --> Katowice             7
+ Katowice --> Sosnowiec          20
+
+Trasa: Sobienie-Kielczewskie-Pierwsze --> Przedmiescie-Szczebrzeszynskie (50 km): 
+ Sobienie-Kielczewskie-Pierwsze --> Przedmiescie-Szczebrzeszynskie           50
