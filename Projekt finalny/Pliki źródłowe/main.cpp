@@ -56,7 +56,15 @@ int main(int argc, char *argv[])
 		std::cout << "bledne uzycie przelacznikow! (zla liczba przelacznikow lub ktorys nie zaczyna sie od -" << std::endl;
 		return 0;
 	}
+	if(!wczyt1 || !wczyt2 || !wypis)
+	{
+		std::cout<<"ktorys plik nie zostal podany";
+		return 1;
+	}
+	else
+	{
 	wczytanie(wczyt1, wczyt2, wypis);
 	std::cout << "program wlaczyl sie poprawnie"<<std::endl;
 	return 0;
+	}
 }
