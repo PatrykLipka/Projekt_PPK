@@ -5,8 +5,12 @@ Lodz Warszawa
 Lodz Pila
 Lodz Poznan
 Poznan Gdansk
+Gdansk Poznan
 Berlin Warszawa
+Berlin Berlin
 Lodz xdd
+xdd Lodz
+xdd xddd
 Berlin Otwock
 Berlin Moskwa
 Orzesze Sosnowiec
