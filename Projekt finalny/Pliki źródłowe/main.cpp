@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-	std::string wczyt1, wczyt2, wypis;
+	std::string wczyt1="", wczyt2="", wypis="";
 	
 	if (argc == 7 && argv[1][0] == '-' &&  argv[3][0] == '-' &&  argv[5][0] == '-')
 	{
@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 		std::cout << "bledne uzycie przelacznikow! (zla liczba przelacznikow lub ktorys nie zaczyna sie od -" << std::endl;
 		return 0;
 	}
-	if(!wczyt1 || !wczyt2 || !wypis)
+	if(wczyt1.empty() || wczyt2.empty() || wypis.empty())
 	{
 		std::cout<<"ktorys plik nie zostal podany";
 		return 1;
